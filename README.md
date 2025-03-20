@@ -4,7 +4,7 @@
 
 Vypracoval som Power BI projekt podľa zadania ENGETO z Projektu 2.
 
-Základom reportu je 5 Excel tabuliek ktoré slúžia ako náhrada funkčný dynamických zdrojov. Tabuľky som vyplnil pomocou random funkcií v Exceli ( RAND a RANDBETWEEN ) s podobným rozložením ako má pravá relačná databáza ERP alebo CRM systémov vo firmách.
+Základom reportu je 5 Excel tabuliek ktoré slúžia ako náhrada funkčný dynamických zdrojov. Tabuľky som vyplnil pomocou random funkcií v Exceli ( RAND a RANDBETWEEN ) s podobným rozložením ako má ostro používaná relačná databáza ERP alebo CRM systémov ktoré môžu firmy používať.
 
 ﻿Všetky tabuľky sú prepojené pomocou IDs ( Primary keys ) a odkazujú na seba tak, aby bolo do tabuliek možné pridávať nové dáta bez nutnosti naviazanosti ( Teda aj bez zmien v hlavne SalesTable tabuľke ) a môžeme ich teda meniť.
 
