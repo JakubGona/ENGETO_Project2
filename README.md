@@ -21,12 +21,19 @@ Budget ( Tabuľka budgetu )
 ### Zadanie projektu ###
 
 Rozsah 2-5 stránek ( Celkovo 4 funkčné listy )
+
 Použití minimálně 5 různých typů vizuálů ( Použitých viac vizuálov )
+
 Filtrování (primárně) pomocí průřezů/slicerů ( Pridané filtry na dátum alebo kategóriu )
+
 Využití interaktivních prvků jako jsou záložky, navigace po stranách, odkazy na webové stránky, ... ( Odkazy na webové stránky alebo navigácia pomocou šípiek v produkte )
+
 Propojení několika (2+) datových tabulek, buď přes vazby v rámci Power BI nebo přes propojení v Power Query ( Report má prepojených 5 tabuliek )
+
 Použití vytvořené hierarchie o alespoň dvou úrovních (nepovinné) ( Hierarchia dátumu použitá vo filtre )
+
 Vytvoření alespoň 1 measure (metrika/míra) a 1 kalkulovaného sloupce/tabulky ( Celkovo 3 measurements pre výpočet nákladov alebo marginu )
+
 Grafická úprava použitých vizuálů, zvolení správných typů vizuálů a vizuálně přívětivý výsledný report ( Vytvorené grafické pozadie a výber farieb v celkom reporte )
 
 ### Výstupy z projektu ###
